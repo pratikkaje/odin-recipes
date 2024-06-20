@@ -1,0 +1,37 @@
+html{
+    display: block;
+    background-color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1,h2{
+    text-align: center;
+}
+
+.align-center{    
+    margin: auto;
+    text-align: center;
+    width: 800px;
+}
+
+img{
+    display: block;
+    margin:auto;
+    border-radius: 5%;
+}
+
+ol li {
+    margin: auto;
+    text-align: center;
+    width: 800px;
+    list-style: none;
+}
+
+
+ul li {
+    margin: auto;
+    text-align: center;
+    list-style: none;
+}
+
+
